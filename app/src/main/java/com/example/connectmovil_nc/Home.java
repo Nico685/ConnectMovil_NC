@@ -93,6 +93,7 @@ public class Home extends AppCompatActivity {
                             tvCorreo.setText("");
                             tvContrasenia.setText("");
                             tvNombreUsuario.setText("");
+                            editTextUserId.setText("");
                         }
                     }
 
