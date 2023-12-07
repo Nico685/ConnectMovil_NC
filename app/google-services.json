@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "317259804484",
+    "project_id": "connectmovil-e4209",
+    "storage_bucket": "connectmovil-e4209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317259804484:android:5ab1f8e2bbc1124aec7111",
+        "android_client_info": {
+          "package_name": "com.example.connectmovil_nc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317259804484-p4lvk1l3q8qe5bunliqu6gomtb9mtc6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.connectmovil_nc",
+            "certificate_hash": "58f9f416e208bf3dfc8dd1932f31e63f1ea457d8"
+          }
+        },
+        {
+          "client_id": "317259804484-rakm2njk0aucdbhuto1obb7r7q5pp0o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX6IU4iIjNCa9rPNBH1ZjosqXqvkCJHG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317259804484-rakm2njk0aucdbhuto1obb7r7q5pp0o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
